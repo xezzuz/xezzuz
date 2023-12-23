@@ -6,10 +6,6 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
 <h2 align="center">🚀   xezzuz's Stats</h2>
 
 ###
