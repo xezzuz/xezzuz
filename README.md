@@ -4,17 +4,16 @@ I'm a Computer Science student at 1337, passionate about coding and technology. 
 
 ## 🔧 Technologies & Tools
 - C
-- [Your Next Language Here]
 
 ## 📚 Learning
 - Currently mastering the art of C programming.
 
-## 🌐 Connect with Me
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Personal Website/Blog Link)
+//## 🌐 Connect with Me
+//- [LinkedIn](Your LinkedIn Profile Link)
+//- [Twitter](Your Twitter Profile Link)
+//- [Personal Website/Blog](Your Personal Website/Blog Link)
 
 ## 🚀 Projects
 - Stay tuned for exciting projects coming soon!
 
-Feel free to explore my repositories and connect with me. Let's learn and code together! 💻
+Feel free to explore my repositories and connect with me ! 💻
