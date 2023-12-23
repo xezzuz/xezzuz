@@ -6,6 +6,12 @@
 
 ###
 
+[![<nazouz>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+
+###
+
+###
+
 <h2 align="center">🚀   xezzuz's Stats</h2>
 
 ###
