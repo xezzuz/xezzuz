@@ -19,6 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xezzuz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1&custom_title=xezzuz's%20GitHub%20Stats" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=xezzuz&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
@@ -50,19 +51,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,ubuntu,git,js,html,css)](https://skillicons.dev)
 
 ###
 
