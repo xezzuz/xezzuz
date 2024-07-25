@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm a Software Engineering Student at 1337 Coding School | 42 Network, passionate about coding and technology. Currently diving into the world of C language and exploring its endless possibilities.</h3>
+<h3 align="left">I'm a Software Engineering Student at 1337 Coding School | 42 Network, passionate about coding and technology. Currently diving into the world of C/C++, HTML, CSS, JavaScript and exploring their endless possibilities.</h3>
 
 ###
 
